@@ -6,7 +6,7 @@
 
 ## Built With
 
-- HTML,Bootstrap
+- HTML and Bootstrap
 - Linters for Clean Programming
 
 ## Live Demo 
@@ -14,7 +14,7 @@
 
 
 ## Getting Started
-You can easily run the project by clone the repository to get the complete HTML and Bootstrap code and then opening the Html File on your web browser. 
+You can easily run the project by clone the repository to get the complete HTML and Bootstrap files and then opening the Html File on your web browser. 
 
 ## Authors
 
